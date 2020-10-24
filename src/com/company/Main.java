@@ -18,7 +18,7 @@ public class Main {
         Sytem.out.println("çıkarma eklendi");
 
         System.out.println("hello github");
-
+        System.out.println("push yapcam");
 	// write your code here
     }
 }
