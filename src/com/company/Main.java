@@ -13,6 +13,7 @@ public class Main {
         a.setName("muzo");
         System.out.println( a.getName());
         System.out.println("hello git");
+        x = 5 * 7;
 
 	// write your code here
     }
