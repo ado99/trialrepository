@@ -15,6 +15,7 @@ public class Main {
         System.out.println("hello git");
         x = 5 * 7;
         System.out.println("yeni bişey ekledim");
+        Sytem.out.println("çıkarma eklendi");
 
 	// write your code here
     }
