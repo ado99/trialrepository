@@ -19,6 +19,7 @@ public class Main {
 
         System.out.println("hello github");
         System.out.println("push yapcam");
+        System.out.println("push yapcam");
 	// write your code here
     }
 }
